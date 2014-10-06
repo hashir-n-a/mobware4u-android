@@ -28,11 +28,3 @@ proguard/
 *.iws
 .idea/
 
-apps/ManorCars/assets/iconfont.ttf
-apps/ManorCars/src/com/manorcars/opencabs/HomeScreen.java
-/libraries/android-numberpicker/.settings/org.eclipse.jdt.core.prefs
-/libraries/android-timepicker/.settings/org.eclipse.jdt.core.prefs
-/libraries/appcompat/.settings/org.eclipse.jdt.core.prefs
-/libraries/mixpanel/src/main/.settings/org.eclipse.jdt.core.prefs
-/taxifinder/.settings/org.eclipse.jdt.core.prefs
-taxifinder/.settings/org.eclipse.core.resources.prefs
