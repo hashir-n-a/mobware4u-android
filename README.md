@@ -1,4 +1,6 @@
-mobware4u-android
+SMS Notifier
 =================
 
-a few open android projects from me
+An app to notify a server of incoming sms messages
+
+

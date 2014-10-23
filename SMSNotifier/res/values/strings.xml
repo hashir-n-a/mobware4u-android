@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMSNotifier</string>
+    <string name="enter_url_prompt">Enter url!</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="error_msg">Please input an address!</string>
+
+</resources>
